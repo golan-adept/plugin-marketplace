@@ -398,8 +398,8 @@
       }
     },
     "flixter": {
-      "sha": "75ae081c3c2f39fd4dbc2b3484f83ea515bb7ae9",
-      "version": "1.0.0",
+      "sha": "7d12f908d9eac33c2aed312f0c72d7547eac0291",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
