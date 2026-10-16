@@ -468,7 +468,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/golan-adept/flixter-grok-plugin.git",
-        "sha": "81c78d5434fe701b0688d16a15a7c10a0300c3f6"
+        "sha": "e1edc1d685fc68212f0ea14627cfe1f25edea7a3"
       },
       "homepage": "https://flixter.ai",
       "keywords": ["flixter", "flixter mcp", "flixter studio"],

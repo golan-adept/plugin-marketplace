@@ -525,8 +525,8 @@
       }
     },
     "flixter": {
-      "sha": "81c78d5434fe701b0688d16a15a7c10a0300c3f6",
-      "version": "1.4.0",
+      "sha": "e1edc1d685fc68212f0ea14627cfe1f25edea7a3",
+      "version": "1.4.1",
       "components": {
         "mcpServers": [
           {
